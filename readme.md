@@ -4,7 +4,7 @@ Our client is trying to launch a calorie counter as a tool for their customers t
 ---
 
 ### Setup
-You can find the code for the backend API in the `./calorie-counter-api` directory. We are using postgresql instead of sqlite for this project so **make sure you have that installed**. Check that it works by running `psql` in your terminal. 
+You can find the code for the backend API in the `./calorie-counter-api` directory. We are using postgresql instead of sqlite for this project so **make sure you have that installed**. Check that it works by running `psql` in your terminal. **note: i got an error running psql**
 Finish setting up your app by running the following commands:
 
 * `$ cd ./calorie-counter-api`
